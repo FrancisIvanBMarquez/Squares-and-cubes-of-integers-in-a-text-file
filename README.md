@@ -1,1 +1,2 @@
 # Squares-and-cubes-of-integers-in-a-text-file
+Write a method in python that will create two separate text files after reading the source text file named integers.txt that contains 20 integers. The first output file will be named double.txt containing the square of all even integers found in integers.txt and the second file will be named triple.txt containing the cube of all odd numbers found in the integers.txt.![image](https://user-images.githubusercontent.com/131366293/235345511-13d4dbab-ba52-46c3-81b9-b181ec61ae99.png)
